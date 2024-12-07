@@ -1,0 +1,21 @@
+Port Scan Report for 127.0.0.1
+Scan Range: 20 to 100
+============================================
+Port 80 - OPEN - Service: http - Banner: HTTP/1.1 400 Bad Request
+Date: Sun, 01 Dec 2024 20:16:56 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Content-Length: 300
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.52 (Ubuntu) Server at Mr.Panda Port 80</address>
+</body></html>
+Port 22 - OPEN - Service: ssh - Banner: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10
